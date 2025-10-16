@@ -87,7 +87,7 @@ This tool edits the Windows system hosts file. Misuse may cause connectivity iss
 
 ## 📜 License
 
-MIT License © 2025 huwamee
+MIT License © 2025 Finnapple
 
 Permission is hereby granted, free of charge, to any person obtaining a copy  
 of this software and associated documentation files (the "Software"), to deal  
