@@ -80,7 +80,7 @@ This tool edits the Windows system hosts file. Misuse may cause connectivity iss
 
 ## Developer
 
-> Developed by **huwamee**   
+> Developed by **Finnapple**   
 > Contributions welcome — fork, modify, and improve!
 
 ---
